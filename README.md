@@ -16,3 +16,7 @@ Site feito em Node.js, Firestore e React
  * Adicionar as credenciais necessárias para Firebase
  * Comando para rodar a aplicação local: <br/>
   npm start
+
+
+
+Projeto em andamento. Ainda faltam ajustes importantes para a aplicação.
