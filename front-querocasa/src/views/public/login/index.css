@@ -1,0 +1,28 @@
+h2 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.form_login {
+    margin: auto;
+    width: 380px;
+    height: 410px;
+    margin-top: 40px;
+    padding: 35px 30px 80px 30px;
+    border: 2px solid rgba(128, 128, 128, 0.4);
+    background-color: rgba(126, 126, 126, 0.2);
+    border-radius: 10px;
+}
+
+.botoes_login {
+    display: flex;
+    flex-direction: column;
+}
+
+.fa-google {
+    margin-left: 10px;
+    padding: 5px 7px;
+    color: rgb(34, 110, 32);
+    border-radius: 50%;
+    background-color: white;
+}

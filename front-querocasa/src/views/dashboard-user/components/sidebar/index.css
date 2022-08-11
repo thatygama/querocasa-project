@@ -1,0 +1,54 @@
+.line_break {
+    background-color: rgba(222, 222, 228, 0.2);
+    height: 1px;
+}
+
+.logo_dashboard {
+    margin-top: 20px;
+}
+
+.logo_dashboard h6 {
+    margin: 6px 0 0 10px;
+    font-size: 20px;
+    color: rgb(255, 230, 176)
+}
+
+.menu_itens {
+    margin-top: 30px;
+}
+
+.menu_item {
+    cursor: pointer;
+    padding: 20px 20px;
+}
+
+.menu_item:last-child {
+    margin: auto;
+    margin-top: 50%;
+    background-color: rgb(182, 0, 0);
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 20px
+}
+
+.menu_item:last-child a {
+    color: white;
+}
+
+.menu_item a {
+    color: white;
+}
+
+.menu_item:hover a {
+    color: white;
+    text-shadow: 1px 1px 2px  rgba(0, 0, 0, 0.4);
+}
+
+.menu_item:hover {
+    background-color: rgba(222, 222, 228, 0.5);
+}
+
+.menu_item:hover:last-child {
+    background-color: rgb(146, 0, 0);
+}

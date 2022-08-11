@@ -1,0 +1,34 @@
+.alugar_area h6 {
+    color: rgb(110, 72, 0);
+}
+
+.alugar_area2 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    text-align: justify;
+    margin: 40px 0 40px 0;
+    padding: 20px 10px 20px 10px;
+    background-color: rgba(255, 248, 189, 0.3);
+    border-radius: 20px;
+}
+
+.alugar_area2_box1_box1 {
+    padding: 10px;
+    flex: 1
+}
+
+.alugar_area2_box2 {
+    display: flex;
+    flex-direction: column;
+    flex: 1
+}
+
+.alugar_area2_box2_box1 {
+    padding: 10px;
+}
+
+.alugar_area2_box2_box2 {
+    padding: 10px;
+}

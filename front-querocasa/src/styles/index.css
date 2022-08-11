@@ -1,0 +1,34 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+.dashboard_pages {
+    display: flex;
+    flex-direction: row;
+    min-height: 1000px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main {
+    min-height: 1000px;
+    padding: 30px 30px 30px 30px;
+    background-color: rgb(212, 212, 212);
+}
+
+.sidebar_dashboard {
+    width: 200px;
+    background-color: rgb(17, 17, 17);
+    border-right: 2px solid rgb(199, 199, 199);
+}
+
+.main_dashboard {
+    width: calc(100% - 200px);
+    padding: 20px 30px 30px 30px;
+    background-color: rgb(241, 234, 190);
+}

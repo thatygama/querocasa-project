@@ -1,0 +1,28 @@
+.header {
+    border-bottom: 4px solid rgba(128, 128, 128, 0.5);
+}
+
+.navitem_public {
+    padding: 10px 10px 0 10px;
+}
+
+.navitem_public a{
+    color: rgb(80, 80, 80)
+}
+
+.navitem_public a:hover{
+    color: rgb(224, 133, 14)
+}
+
+.logo_querocasa {
+    display: flex;
+    flex-direction: row;
+    padding-top: 5px;
+}
+
+.logo_querocasa h6 {
+    font-size: 24px;
+    margin: 10px 20px 0 4px;
+    color: rgb(110, 72, 0);
+    text-shadow: 1px 1px 1px rgba(139, 139, 139, 0.2);
+}

@@ -1,0 +1,21 @@
+.div_carousel {
+    border-top: 2px solid rgba(128, 128, 128, 0.5);
+    border-bottom: 2px solid rgba(128, 128, 128, 0.5);
+    height: 300px;
+}
+
+.carousel {
+    height: 300px;
+    z-index: 1;
+}
+
+.carousel img {
+    object-fit: contain;
+    margin-top: -250px;
+    min-width: 800px;
+    min-height: 800px;
+}
+
+.img_carousel {
+    height: 300px;
+}
