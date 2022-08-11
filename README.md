@@ -1,5 +1,5 @@
 # querocasa-project
-Site feito em Node.js, Firestore e React
+Site feito em Node.js, Firestore e React + Typescript
 
 
 ### Rodando o projeto
